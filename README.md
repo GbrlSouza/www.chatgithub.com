@@ -12,6 +12,7 @@ Esse projeto foi desenvolvido com o objetivo de criar uma interface de chat mini
 - **CSS**: Estilização moderna no estilo GitHub 🎨
 - **JavaScript**: Para a interação dinâmica do chat ⚡
 - **Vue.js**: Para facilitar a construção dos componentes e a interatividade do chat ✨
+- **API (Hugging Face)**: Para ter uma resposta diretamente de uma IA Gratuita 🖥️
 
 ## 🖼️ Preview
 
