@@ -23,7 +23,10 @@ Aqui vai uma prévia do visual do chat:
 
 ## 📦 Como Rodar o Projeto
 
-clique ou copia o link
+- Copia ou clique no link do **About**
+```
+https://gbrlsouza.github.io/www.chatgithub.com/
+```
 
 ## 🔧 Funcionalidades
 
